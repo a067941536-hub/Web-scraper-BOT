@@ -1,1 +1,3 @@
-.app_bg.jpg .app_settings.json
+# 忽略特定的图片和配置文件
+.app_bg.jpg
+.app_settings.json
